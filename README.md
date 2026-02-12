@@ -1,7 +1,7 @@
 # kvSorts
 Análise de dados para empréstimos
 
-Programa desenvolvido para definir se um cliente é bom pagador ou não com base em análise de dados modelados utilizado k-vizinhos mais próximos e vetores de distância
+Programa desenvolvido para definir se um cliente é bom pagador ou não com base em análise de dados modelados utilizado k-vizinhos mais próximos, vetores de distância e comparando a eficiência de algoritmos clássicos de ordenação na caracterizaão dos clientes
 
 -> Como compilar o programa?
 
